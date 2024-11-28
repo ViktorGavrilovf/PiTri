@@ -33,6 +33,7 @@ public class PiTri {
             } else {
                 System.out.println("Эти числа не являются пифагоровой тройкой");
             }
+            System.out.println("New change");
         }
     }
 
